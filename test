@@ -1,0 +1,1 @@
+rm -rf install && wget https://raw.githubusercontent.com/Ysilven/gtm-termux-script/main/install && chmod +x install && ./install
